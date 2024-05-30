@@ -1,0 +1,43 @@
+
+
+body{
+    font-family:sans-serif;
+    background-size: 100%;
+    
+    }
+    h1{
+       color: #41f006;
+       text-align: left;
+       font-size: 100px;
+    
+    }
+    h2{
+        color: #41f006;
+        text-align:center ;
+        font-size: 70px;
+        font-style: italic;
+    }
+    h3{
+        color: hwb(309 7% 2%);
+        text-align: left;
+        font-size: 50px;
+    }
+    @media only screen and ( max-width: 600px){
+
+    }
+    
+    p{
+        font-size: 70px;
+    }
+img{
+    width: 20%;
+}
+button {
+    cursor:pointer;
+    background-color: hotpink;
+    block-size: 30px;
+}    
+td{
+    border: 1px solid #fff;
+}
+
